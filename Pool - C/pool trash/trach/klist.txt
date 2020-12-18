@@ -1,5 +1,0 @@
-Credentials cache: API:331961DF-FC5A-4F1A-80E2-DDCC6D8F5F14
-        Principal: emallah@1337.MA
-
-  Issued                Expires               Principal
-Apr  8 21:39:21 2019  Apr 15 21:39:12 2019  krbtgt/1337.MA@1337.MA
